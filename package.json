@@ -1,0 +1,24 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "shop list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "sankar ganesh",
+  "license": "MIT",
+  "dependencies": {
+    "active-win": "^6.0.0",
+    "electron": "^7.1.7",
+    "electron-node-loader": "^1.2.0",
+    "electron-packager": "^14.1.1",
+    "electron-rebuild": "^1.8.8",
+    "electron-updater": "^4.2.0",
+    "electron-winstaller": "^2.7.0",
+    "gkm": "^0.2.0",
+    "local-storage": "^2.0.0",
+    "node-loader": "^0.6.0",
+    "screenshot-desktop": "^1.10.0"
+  }
+}
