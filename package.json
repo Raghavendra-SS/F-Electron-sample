@@ -17,8 +17,24 @@
     "electron-updater": "^4.2.0",
     "electron-winstaller": "^2.7.0",
     "gkm": "^0.2.0",
+    "iohook": "^0.6.4",
     "local-storage": "^2.0.0",
     "node-loader": "^0.6.0",
     "screenshot-desktop": "^1.10.0"
+  },
+  "iohook": {
+    "targets": [
+      "node-64",
+      "electron-75"
+    ],
+    "platforms": [
+      "win32",
+      "darwin",
+      "linux"
+    ],
+    "arches": [
+      "x64",
+      "ia32"
+    ]
   }
 }
