@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "active-win": "^6.0.0",
-    "electron": "^7.1.7",
+    "electron": "^7.2.4",
     "electron-node-loader": "^1.2.0",
     "electron-packager": "^14.1.1",
     "electron-rebuild": "^1.8.8",
